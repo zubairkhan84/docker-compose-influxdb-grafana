@@ -1,1 +1,1 @@
-# docker-compose-influxdb-grafana
+# docker-compose-influxdb-telegraf-grafana
